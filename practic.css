@@ -1,0 +1,21 @@
+.sign {
+  font-weight: 600 !important;
+}
+.signUpPage {
+  border: 1px solid black;
+}
+.personal{
+  padding-left: 220px;
+}
+.enter{ 
+  text-align: center;
+}
+.old{
+  font-size: 12px;
+}
+.buttons{
+  margin-left: 290px;
+  margin-bottom: 20px;
+     
+}
+
